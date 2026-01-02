@@ -5,8 +5,9 @@
    
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=allthat1000)](https://solved.ac/allthat1000/)<br>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=newtypersh)](https://github.com/anuraghazra/github-readme-stats)<br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newtypersh)](https://github.com/anuraghazra/github-readme-stats)
+
+  <img height="160em" src="https://github-readme-stats-nhd2.vercel.app/api/top-langs/?username=newtypersh&layout=compact&hide=jupyter%20notebook&theme=synthwave&bg_color=141414&text_color=a3a3a3" />
+
 
   ## Experiences
 
